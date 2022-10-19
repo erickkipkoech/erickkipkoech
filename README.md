@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @erickkipkoech
+- 👋 Hi, I’m erickkipkoech
 - 👀 Software Engineering, PHP,LARAVEL,FLUTTER & DART,C#,.NET,JAVASCRIPT,PYTHON.
 - 📫 How to reach me cheruiyotkipkoech612@gmail.com
 
