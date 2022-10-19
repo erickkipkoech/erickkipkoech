@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @erickkipkoech
-- 👀 I’m interested in learning machine learning
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on machine learning projects
+- 👀 Software Engineering, PHP,LARAVEL,FLUTTER & DART,C#,JAVASCRIPT,PYTHON.
 - 📫 How to reach me cheruiyotkipkoech612@gmail.com
 
 <!---
