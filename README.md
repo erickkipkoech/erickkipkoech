@@ -1,5 +1,8 @@
 - 👋 Hi, I’m erickkipkoech
-- 👀 Software Engineering, PHP,LARAVEL,FLUTTER & DART,C#,.NET,JAVASCRIPT,PYTHON.
+- 👀 Software Engineer
+- PHP-LARAVEL,CODEIGNITER.
+- JAVASCRIPT-ReactJS,NodeJS.
+- PYTHON.
 - 📫 How to reach me cheruiyotkipkoech612@gmail.com
 
 <!---
