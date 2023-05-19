@@ -1,8 +1,8 @@
 - 👋 Hi, I’m erickkipkoech
 - 👀 Software Engineer
 - PHP-LARAVEL,CODEIGNITER.
-- JAVASCRIPT-ReactJS,NodeJS.
-- PYTHON.
+- JAVASCRIPT-ReactJS,NodeJS,ExpressJS.
+- PYTHON-DJANGO.
 - 📫 How to reach me cheruiyotkipkoech612@gmail.com
 
 <!---
