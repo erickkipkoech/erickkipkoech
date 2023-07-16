@@ -2,7 +2,7 @@
 - 👀 Software Engineer
 - PHP-LARAVEL,CODEIGNITER.
 - JAVASCRIPT-ReactJS,NodeJS,ExpressJS.
-- PYTHON-DJANGO.
+- dotnet.
 - 📫 How to reach me cheruiyotkipkoech612@gmail.com
 
 <!---
